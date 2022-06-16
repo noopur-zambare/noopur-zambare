@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noopur-zambare
-- I am pre final year student pursuing B-tech in Mechanical Engineering from Indian Institute Of Technology, Jodhpur.
+- I am a pre final year student pursuing B-tech in Mechanical Engineering from **Indian Institute Of Technology, Jodhpur.**
 - 👀 I’m interested in **Machine Learning, Deep Learning, Data Science, Data Analytics and Development related stuffs.**
 - 🌱 I’m currently learning MERN stack, designing chat bots.
 - 💞️ I’m looking to collaborate on machine learning and web development stuffs.
