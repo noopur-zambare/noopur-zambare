@@ -3,7 +3,7 @@
 </div>
 <div>
 - 👋 Hi, I’m @noopur-zambare
-- :books: I'm a pre final year student pursuing B-tech in Mechanical Engineering from __Indian Institute Of Technology, Jodhpur.__ I am also pursuing Minor in Data Science.<br>
+- :books: I'm a pre final year student pursuing B-tech in Mechanical Engineering from <b>Indian Institute Of Technology, Jodhpur.</b> I am also pursuing Minor in Data Science.<br>
 - 👀 I’m interested in **Machine Learning, Deep Learning, Data Science, Data Analytics and Development related stuffs.** <br>
 - 🌱 I’m currently learning MERN stack, designing chat bots.<br>
 - 💞️ I’m looking to collaborate on machine learning and web development stuffs.<br>
