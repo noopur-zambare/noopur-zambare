@@ -13,7 +13,8 @@
 - :briefcase: I have worked as Machine Learning Intern, Data Science Intern and and Undergraduate Researcher.<br>
 - :alarm_clock: I’m looking to collaborate on machine learning and web development stuffs.<br>
 
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 <!---
