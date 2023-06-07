@@ -12,7 +12,7 @@
 - :computer: I’m interested in <b> Machine Learning, Deep Learning, Data Science, Data Analytics and Development related stuffs.</b> <br>
 - :briefcase: I have worked as Machine Learning Intern, Data Science Intern and and Undergraduate Researcher.<br>
 - :alarm_clock: I’m looking to collaborate on machine learning and web development stuffs.<br>
- <h5>:computer: Programming </h5>
+ <h4><u>:computer: Programming </u></h4>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
