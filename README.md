@@ -6,8 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-# Return of Investments Website
-All the projects from 2023 are in this repository
+
 
 * 👋 Hi, I’m @noopur-zambare <br>
 * :books: I'm a final year student pursuing B-tech in Mechanical Engineering from <b>Indian Institute Of Technology, Jodhpur</b> along with a Minor in Data Science.<br>
