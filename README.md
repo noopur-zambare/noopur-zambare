@@ -2,7 +2,6 @@
 * :books: I have done B-tech in Mechanical Engineering from <b>Indian Institute Of Technology, Jodhpur</b> along with a Minor in Data Science.<br>
 * :computer: I’m interested in <b> Machine Learning, Deep Learning, Data Science, Data Analytics and Development related stuff.</b> <br>
 * :briefcase: I have worked as a Machine Learning Intern and Data Science Intern.<br>
-* :alarm_clock: I’m looking to collaborate on machine learning and web development stuff.<br>
 
  <h3><u>:computer: Programming </u> </h3>
 
