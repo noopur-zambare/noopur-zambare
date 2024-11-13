@@ -4,14 +4,6 @@
 * :briefcase: I have worked as a Machine Learning Intern, Data Science Intern and Undergraduate ML Researcher.<br>
 * :alarm_clock: I’m looking to collaborate on machine learning and web development stuff.<br>
 
-
- <h3><u>:computer: ML / DL  </u> </h3>
-
- ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
  <h3><u>:computer: Programming </u> </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
