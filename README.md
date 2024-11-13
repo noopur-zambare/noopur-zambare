@@ -3,6 +3,7 @@
 * :computer: I’m interested in <b> Machine Learning, Deep Learning, Data Science, Data Analytics and Development related stuff.</b> <br>
 * :briefcase: I have worked as a Machine Learning Intern and Data Science Intern.<br>
 
+
  <h3><u>:computer: Programming </u> </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
