@@ -2,8 +2,8 @@
 I am currently pursuing my MSc in Computing Science at the University of Alberta, with a focus on Bias and Fairness in Machine Learning.
 
 ## Education
-#### **MSc in Computing Science**  
-**University of Alberta** | *Expected Graduation: 2026*  
+#### <span style="color:red">**MSc in Computing Science**</span> 
+**University of Alberta**
 
 #### **Bachelor of Technology in Mechanical Engineering with Minor in Data Science**  
 [Indian Institute of Technology Jodhpur] | [2024] 
