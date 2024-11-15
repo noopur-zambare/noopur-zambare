@@ -1,12 +1,5 @@
 ## About Me
-I am currently pursuing my MSc in Computing Science at the University of Alberta, with a focus on Bias and Fairness in Machine Learning.
-
-## Education
-#### <span style="color:red">**MSc in Computing Science**</span> 
-**University of Alberta**
-
-#### **Bachelor of Technology in Mechanical Engineering with Minor in Data Science**  
-[Indian Institute of Technology Jodhpur] | [2024] 
+I am currently pursuing my MSc in Computing Science at the University of Alberta, with a focus on Bias and Fairness in Machine Learning. I graduated with a BTech in Mechanical Engineering, with a Minor in Data Science, from IIT Jodhpur, India.
 
 
  <h3><u>:computer: Programming </u> </h3>
