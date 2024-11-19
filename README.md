@@ -2,6 +2,7 @@
 I am currently pursuing my MSc in Computing Science at the University of Alberta, with a focus on Bias and Fairness in Machine Learning. I graduated with BTech in Mechanical Engineering with Minor in Data Science, from IIT Jodhpur, India.
 
 
+
  <h3><u>:computer: Programming </u> </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
