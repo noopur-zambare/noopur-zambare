@@ -31,7 +31,7 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
       </div>
     </td>
     <td style="vertical-align: top; width: 50%;">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 300px; width: 90%;" />
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 300px; width: 100%;" />
     </td>
   </tr>
 </table>
