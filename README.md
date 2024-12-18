@@ -22,7 +22,6 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
   <table style="width: 100%; table-layout: fixed;">
- 
     <tr>
       <!-- Left column with stacked images -->
       <td style="vertical-align: top; width: 50%; text-align: center; border: none;">
