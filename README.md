@@ -33,6 +33,18 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
   </div>
 </div>
 
+<div style="display: flex;">
+  <!-- Stacked images in a div -->
+  <div style="display: flex; flex-direction: column;">
+    <div style="height: 200px; background-image: url('image1.jpg'); background-size: cover;"></div>
+    <div style="height: 200px; background-image: url('image2.jpg'); background-size: cover;"></div>
+  </div>
+
+  <!-- Right image with the same height as stacked images -->
+  <div style="height: 400px; width: 200px; background-image: url('image3.jpg'); background-size: cover;"></div>
+</div>
+
+
 
 
 
