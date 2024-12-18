@@ -21,7 +21,7 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 <h3><u>📊 GitHub Stats </u> </h3>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
-  <table style="width: 80%; table-layout: fixed; border: none; border-spacing: 0; padding: 0;">
+  <table style="width: 80%; table-layout: fixed; border: 10px; border-spacing: 0; padding: 0;">
     <tr>
       <!-- Left column with stacked images -->
       <td style="vertical-align: top; width: 50%; padding-right: 20px; text-align: center;">
