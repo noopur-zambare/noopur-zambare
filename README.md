@@ -22,12 +22,15 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start;">
   <div style="display: flex; flex-direction: column; margin-right: 20px;">
+    <!-- First and second images stacked vertically -->
     <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 150px; width: 400px;" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 200px; width: 400px;" />
   </div>
   
+  <!-- Third image on the right -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 150px; width: 440px;" />
 </div>
+
 
 
 
