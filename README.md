@@ -41,11 +41,11 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
         <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 150px; width: 100%;" />
       </div>
       <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 200px; width: 100%;" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 350px; width: 100%;" />
       </div>
     </td>
     <td style="vertical-align: top; width: 50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 350px; width: 100%;" />
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 200px; width: 100%;" />
     </td>
   </tr>
 </table>
