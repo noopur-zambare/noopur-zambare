@@ -29,7 +29,7 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
           <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 160px; width: 100%;" />
         </div>
         <div>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 150px; width: 100%;" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 145px; width: 100%;" />
         </div>
       </td>
       <!-- Right column with top languages image -->
