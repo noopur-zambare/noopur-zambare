@@ -20,32 +20,18 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 
 <h3><u>📊 GitHub Stats </u> </h3>
 
-<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start;">
-  <!-- Left block with first and second images stacked vertically -->
-  <div style="display: flex; flex-direction: column; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 150px; width: 400px;" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 200px; width: 400px;" />
-  </div>
-  
-  <!-- Right block with the third image (GitHub Streak) -->
-  <div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 150px; width: 440px;" />
-  </div>
-</div>
-
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <!-- Left column: first and second images stacked vertically -->
     <td style="vertical-align: top; width: 50%; padding-right: 20px;">
       <div>
         <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 150px; width: 100%;" />
       </div>
       <div>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 350px; width: 100%;" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 150px; width: 100%;" />
       </div>
     </td>
     <td style="vertical-align: top; width: 50%;">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 200px; width: 100%;" />
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 300px; width: 100%;" />
     </td>
   </tr>
 </table>
