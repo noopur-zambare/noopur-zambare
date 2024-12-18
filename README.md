@@ -21,12 +21,14 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 <h3><u>📊 GitHub Stats </u> </h3>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 250px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 250px; width: 400px;" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 250px; width: 400px; margin-left: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 200px; width: 400px;" /> 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narendra-027&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 200px; width: 440px;"/>
+
+
 </div>
 
 
 
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 250px; width: 400px; margin-left: 20px;" />
 
 
