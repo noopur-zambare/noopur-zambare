@@ -18,6 +18,8 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
+![](https://github-profile-trophy.vercel.app/?username=noopur-zambare&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=noopur-zambare&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=dark)
 
 
