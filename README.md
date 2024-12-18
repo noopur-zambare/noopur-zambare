@@ -18,7 +18,7 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
-<h3><u>:graph: GitHub Stats </u> </h3>
+<h3><u>📊 GitHub Stats </u> </h3>
 
 <div align="center" style="height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 200px; width: 400px;" /> 
