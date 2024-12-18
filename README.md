@@ -22,7 +22,7 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 200px; width: 400px;" /> 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 200px; width: 420px;"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 200px; width: 440px;"/>
 </div>
 
 
