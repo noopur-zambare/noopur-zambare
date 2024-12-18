@@ -20,7 +20,7 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 
 <h3><u>📊 GitHub Stats </u> </h3>
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start;">
+<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start;">
   <!-- Left block with first and second images stacked vertically -->
   <div style="display: flex; flex-direction: column; margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 150px; width: 400px;" /> 
