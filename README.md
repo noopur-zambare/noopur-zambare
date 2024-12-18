@@ -20,7 +20,7 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 
 <h3><u>📊 GitHub Stats </u> </h3>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; height: 90vh; width: 100%;">
   <table style="width: 100%; table-layout: fixed;">
     <tr>
       <!-- Left column with stacked images -->
