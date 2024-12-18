@@ -22,7 +22,7 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="vertical-align: top; width: 50%; padding-right: 20px;">
+    <td style="vertical-align: top; width: 50%;">
       <div>
         <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 150px; width: 90%;" />
       </div>
@@ -31,7 +31,7 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
       </div>
     </td>
     <td style="vertical-align: top; width: 50%;">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 300px; width: 100%;" />
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 300px; width: 90%;" />
     </td>
   </tr>
 </table>
