@@ -21,24 +21,25 @@ I'm pursuing my MSc in Computing Science at the University of Alberta, focusing 
 <h3><u>📊 GitHub Stats </u> </h3>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
-  <table style="width: 80%; table-layout: fixed; border-collapse: collapse; padding: 0;">
+  <table style="width: 80%; table-layout: fixed; border-collapse: collapse; padding: 0; border: none;">
     <tr>
       <!-- Left column with stacked images -->
-      <td style="vertical-align: top; width: 50%; padding-right: 20px; text-align: center;">
+      <td style="vertical-align: top; width: 50%; padding-right: 20px; text-align: center; border: none;">
         <div>
-          <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 150px; width: 90%;" />
+          <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 150px; width: 90%;" />
         </div>
         <div>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 150px; width: 90%;" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=true" alt="GitHub Streak" style="height: 150px; width: 90%;" />
         </div>
       </td>
       <!-- Right column with top languages image -->
-      <td style="vertical-align: top; width: 50%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 300px; width: 100%;" />
+      <td style="vertical-align: top; width: 50%; text-align: center; border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=true" alt="Top Languages" style="height: 300px; width: 100%;" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
