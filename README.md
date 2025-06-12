@@ -1,5 +1,5 @@
 ## About Me
-Hi, I'm Noopur Zambare. I'm currently pursuing my MSc (Thesis) in Computing Science at the University of Alberta, where my research focuses on using large language models (LLMs) for clinical data de-identification to enhance the privacy of clinical notes. I received my BTech in Mechanical Engineering with a Minor in Data Science from IIT Jodhpur, India. 
+Hi, I'm Noopur Zambare. I'm currently pursuing my MSc (Thesis) in Computing Science at the University of Alberta, where my research focuses on using Large Language Models for clinical data de-identification to enhance the privacy of clinical notes. I received my BTech in Mechanical Engineering with a Minor in Data Science from IIT Jodhpur, India. 
 
  <h3><u>:computer: Programming </u> </h3>
 
