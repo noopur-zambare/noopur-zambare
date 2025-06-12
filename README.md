@@ -1,6 +1,5 @@
 ## About Me
-I'm pursuing my MSc in Computing Science at the University of Alberta, focusing on Bias and Fairness in Machine Learning. I received my BTech in Mechanical Engineering with a Minor in Data Science from IIT Jodhpur, India. I would like to contribute to projects involving applied ML!
-
+Hi, I'm Noopur Zambare. I'm currently pursuing my MSc (Thesis) in Computing Science at the University of Alberta, where my research focuses on using large language models (LLMs) for clinical data de-identification to enhance the privacy of clinical notes. I received my BTech in Mechanical Engineering with a Minor in Data Science from IIT Jodhpur, India. 
 
  <h3><u>:computer: Programming </u> </h3>
 
