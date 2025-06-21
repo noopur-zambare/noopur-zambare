@@ -23,7 +23,7 @@ Hi, I'm Noopur Zambare. I'm currently pursuing my MSc (Thesis) in Computing Scie
 <div style="display: flex; justify-content: center; align-items: center; height: 90vh; width: 100%;">
   <table style="width: 100%; table-layout: fixed;">
     <tr>
-
+<!-- Left column with stacked images -->
       <td style="vertical-align: top; width: 50%; text-align: center; border: none;">
         <div style="display: flex; justify-content: center; align-items: center;">
           <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 160px; width: 100%;" />
@@ -32,7 +32,7 @@ Hi, I'm Noopur Zambare. I'm currently pursuing my MSc (Thesis) in Computing Scie
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 145px; width: 100%;" />
         </div>
       </td>
-
+<!-- Right column with stacked images -->
       <td style="vertical-align: top; width: 50%; text-align: center; border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 300px; width: 100%;" />
       </td>
