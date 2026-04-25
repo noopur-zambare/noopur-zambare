@@ -11,6 +11,7 @@ I am an AI Researcher pursuing an M.Sc. in Computer Science (AI) at the Universi
 
 ## ⚙️ Technical Skills
 <div align="center">
+  
 ### 🖥️ **Languages**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
