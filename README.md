@@ -1,24 +1,52 @@
 ## About Me
-Hi, I'm Noopur Zambare. I'm currently pursuing my MSc (Thesis) in Computing Science at the University of Alberta, where my research focuses on using Large Language Models for clinical data de-identification to enhance the privacy of clinical notes. I received my BTech in Mechanical Engineering with a Minor in Data Science from IIT Jodhpur, India. 
+I am an AI Researcher pursuing an M.Sc. in Computer Science (AI) at the University of Alberta (Canada), specializing in building and deploying language models, clinical NLP, Agentic AI, and retrieval-augmented generation (RAG). I have completed undergraduate studies (B.Tech.) at IIT Jodhpur (India).
 
- <h3><u>:computer: Programming </u> </h3>
+### 🎯 What I Do
+- Build multi-agent frameworks for reasoning, planning, and tool-using AI systems.
+- Design retrieval-augmented generation (RAG) pipelines for LLMs to deliver context-aware, accurate responses.
+- Fine-tune large language models using parameter-efficient fine-tuning (PEFT) techniques to adapt them efficiently to domain-specific tasks while minimizing computational cost and training overhead.
+- Develop clinical NLP-based de-identification models to enhance patient privacy and ensure safe handling of sensitive healthcare data.
 
+---
+
+## ⚙️ Technical Skills
+### 🖥️ **Languages**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 
-<h3><u>:computer: Development </u> </h3>
+### 🤖 **AI/ML Frameworks & LLM**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-[![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)
+### 🚀 **AI Research & Specializations**
+![Agentic%20AI](https://img.shields.io/badge/Agentic%20AI-4ECDC4?style=for-the-badge)
+![Generative%20AI](https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-FF006E?style=for-the-badge)
+![RAG%20Systems](https://img.shields.io/badge/RAG%20Systems-95E1D3?style=for-the-badge)
+![Deep%20Learning](https://img.shields.io/badge/Deep%20Learning-9D4EDD?style=for-the-badge)
+
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 💾 **Databases**
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+
+### ⌨️ **Development**
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
-<h3><u>📊 GitHub Stats </u> </h3>
+
+## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; height: 90vh; width: 100%;">
   <table style="width: 100%; table-layout: fixed;">
