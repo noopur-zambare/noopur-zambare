@@ -10,6 +10,7 @@ I am an AI Researcher pursuing an M.Sc. in Computer Science (AI) at the Universi
 ---
 
 ## ⚙️ Technical Skills
+<div align="center">
 ### 🖥️ **Languages**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -47,6 +48,7 @@ I am an AI Researcher pursuing an M.Sc. in Computer Science (AI) at the Universi
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
+</div>
 ---
 
 ## 📊 GitHub Stats
