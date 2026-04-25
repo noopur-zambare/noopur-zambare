@@ -1,5 +1,5 @@
 ## 👋 About Me
-I am an AI Researcher pursuing an M.Sc. in Computer Science at the University of Alberta (Canada), specializing in building and deploying language models, clinical NLP, Agentic AI, and retrieval-augmented generation (RAG). I have completed undergraduate studies (B.Tech.) at IIT Jodhpur (India).
+I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **University of Alberta (Canada)**, specializing in building and deploying language models, clinical NLP, Agentic AI, and retrieval-augmented generation (RAG). I have completed undergraduate studies (B.Tech.) at **IIT Jodhpur (India)**.
 
 ### 🎯 What I Do
 - Build multi-agent frameworks for reasoning, planning, and tool-using AI systems.
