@@ -50,6 +50,7 @@ I am an AI Researcher pursuing an M.Sc. in Computer Science (AI) at the Universi
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
