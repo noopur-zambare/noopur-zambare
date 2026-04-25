@@ -1,4 +1,4 @@
-## About Me
+## 👋 About Me
 I am an AI Researcher pursuing an M.Sc. in Computer Science (AI) at the University of Alberta (Canada), specializing in building and deploying language models, clinical NLP, Agentic AI, and retrieval-augmented generation (RAG). I have completed undergraduate studies (B.Tech.) at IIT Jodhpur (India).
 
 ### 🎯 What I Do
@@ -20,6 +20,7 @@ I am an AI Researcher pursuing an M.Sc. in Computer Science (AI) at the Universi
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -37,6 +38,7 @@ I am an AI Researcher pursuing an M.Sc. in Computer Science (AI) at the Universi
 
 ### 💾 **Databases**
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ### ⌨️ **Development**
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
@@ -45,6 +47,7 @@ I am an AI Researcher pursuing an M.Sc. in Computer Science (AI) at the Universi
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
+---
 
 ## 📊 GitHub Stats
 
