@@ -5,7 +5,7 @@ I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **Univers
 
 ### 🎯 What I Do
 - Build multi-agent frameworks for reasoning, planning, and tool-using AI systems.
-- Design retrieval-augmented generation (RAG) pipelines for LLMs to deliver context-aware, accurate responses.
+- Design RAG pipelines for LLMs to deliver context-aware, accurate responses.
 - Fine-tune large language models using parameter-efficient fine-tuning (PEFT) techniques to adapt them efficiently to domain-specific tasks while minimizing computational cost and training overhead.
 - Develop clinical NLP-based de-identification models to enhance patient privacy and ensure safe handling of sensitive healthcare data.
 
