@@ -58,18 +58,16 @@ I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **Univers
 
 <p align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noopur-zambare&theme=radical" width="90%" />
-
-</p>
-
-<p align="center">
-
+  <!-- Side by side section -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noopur-zambare&theme=radical" width="45%" />
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noopur-zambare&theme=radical" width="45%" />
+
 </p>
 
+<!-- Full width contribution / profile summary -->
 <p align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noopur-zambare&theme=radical" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noopur-zambare&theme=radical" width="90%" />
 
 </p>
