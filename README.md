@@ -52,7 +52,6 @@ I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **Univers
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
