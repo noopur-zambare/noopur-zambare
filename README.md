@@ -65,7 +65,6 @@ I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **Univers
 <p align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noopur-zambare&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noopur-zambare&theme=radical" width="45%" />
 
 </p>
 
