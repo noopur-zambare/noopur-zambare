@@ -52,22 +52,42 @@ I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **Univers
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
 
+<!-- TOP: Profile stats -->
 <p align="center">
 
-  <!-- Side by side section -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noopur-zambare&theme=radical" width="45%" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noopur-zambare&theme=radical" width="45%" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noopur-zambare&theme=radical" 
+    width="90%" 
+  />
 
 </p>
 
-<!-- Full width contribution / profile summary -->
+<!-- MIDDLE: side-by-side cards -->
 <p align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noopur-zambare&theme=radical" width="90%" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noopur-zambare&theme=radical" 
+    width="45%" 
+  />
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=noopur-zambare&theme=radical" 
+    width="45%" 
+  />
+
+</p>
+
+<!-- BOTTOM: contribution / full width -->
+<p align="center">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noopur-zambare&theme=radical" 
+    width="90%" 
+  />
 
 </p>
