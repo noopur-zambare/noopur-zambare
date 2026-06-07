@@ -56,27 +56,44 @@ I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **Univers
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; height: 90vh; width: 100%;">
-  <table style="width: 100%; table-layout: fixed;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <table style="width: 100%; table-layout: fixed; border: none;">
     <tr>
-<!-- Left column with stacked images -->
+
+      <!-- Left column: Summary + Languages -->
       <td style="vertical-align: top; width: 50%; text-align: center; border: none;">
-        <div style="display: flex; justify-content: center; align-items: center;">
-          <img src="https://github-readme-stats.vercel.app/api?username=noopur-zambare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 160px; width: 100%;" />
-        </div>
-        <div>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=noopur-zambare&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 145px; width: 100%;" />
-        </div>
+
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noopur-zambare&theme=radical" 
+          alt="Profile Summary" 
+          style="width: 100%; margin-bottom: 10px;" 
+        />
+
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noopur-zambare&theme=radical" 
+          alt="Repos per Language" 
+          style="width: 100%; margin-bottom: 10px;" 
+        />
+
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noopur-zambare&theme=radical" 
+          alt="Most Commit Language" 
+          style="width: 100%;" 
+        />
+
       </td>
-<!-- Right column with stacked images -->
+
+      <!-- Right column: Activity Graph -->
       <td style="vertical-align: top; width: 50%; text-align: center; border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopur-zambare&theme=radical&hide_border=false" alt="Top Languages" style="height: 300px; width: 100%;" />
+
+        <img 
+          src="https://github-readme-activity-graph.vercel.app/graph?username=noopur-zambare&theme=radical" 
+          alt="Activity Graph" 
+          style="width: 100%; height: 100%;" 
+        />
+
       </td>
+
     </tr>
   </table>
 </div>
-
-
-
-
-
