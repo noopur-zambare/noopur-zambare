@@ -59,25 +59,27 @@ I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **Univers
 
 <!-- TOP: Profile stats -->
 <p align="center">
-
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noopur-zambare&theme=radical" 
     width="90%" 
   />
-
 </p>
 
-<!-- MIDDLE: side-by-side equal cards -->
-<p align="center">
+<!-- MIDDLE: forced side-by-side -->
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noopur-zambare&theme=radical" 
+        width="100%" 
+      />
+    </td>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noopur-zambare&theme=radical" 
-    width="45%" 
-  />
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=noopur-zambare&theme=radical" 
-    width="45%" 
-  />
-
-</p>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=noopur-zambare&theme=radical" 
+        width="100%" 
+      />
+    </td>
+  </tr>
+</table>
