@@ -65,18 +65,21 @@ I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **Univers
   />
 </p>
 
+<!-- 2ND + 3RD TILE SAME HEIGHT/WIDTH -->
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noopur-zambare&theme=radical" 
-        width="100%" 
+        width="420" 
+        height="250"
       />
     </td>
-    <td align="center" width="50%">
+    <td align="center">
       <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=noopur-zambare&theme=radical" 
-        width="100%" 
+        width="420" 
+        height="250"
       />
     </td>
   </tr>
