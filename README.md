@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=A589D1&center=true&vCenter=true&width=900&height=100&lines=Hi+👋+I'm+Noopur+Zambare;AI+Solutions+Developer+🤖;GenAI+%26+Agentic+AI+Specialist;AI+Researcher" alt="Typing SVG" />
 
 ## 👋 About Me
-I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **University of Alberta (Canada)**, specializing in building and deploying language models, Clinical NLP, Agentic AI, and retrieval-augmented generation (RAG). I have completed undergraduate studies (B.Tech.) at **IIT Jodhpur (India)**.
+I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **University of Alberta (Canada)**, specializing in building and deploying language models, Clinical NLP, Agentic AI, and Retrieval-Augmented Generation (RAG). I have completed undergraduate studies (B.Tech.) at **IIT Jodhpur (India)**.
 
 ### 🎯 What I Do
 - Build multi-agent frameworks for reasoning, planning, and tool-using AI systems and MCP.
