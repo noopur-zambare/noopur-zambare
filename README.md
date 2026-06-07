@@ -67,22 +67,24 @@ I am an AI Researcher pursuing an **M.Sc. in Computer Science** at the **Univers
 
 </p>
 
-<!-- MIDDLE: side-by-side cards -->
+<!-- MIDDLE: side-by-side equal size -->
 <p align="center">
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noopur-zambare&theme=radical" 
     width="45%" 
+    height="200"
   />
 
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=noopur-zambare&theme=radical" 
     width="45%" 
+    height="200"
   />
 
 </p>
 
-<!-- BOTTOM: contribution / full width -->
+<!-- BOTTOM: stats -->
 <p align="center">
 
   <img 
